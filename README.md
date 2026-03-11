@@ -22,8 +22,43 @@ Video series covering the foundations of **linear equations, matrices, and solvi
 | ✅ | Example Exercises | Worked examples applying the methods of Chapter 1. | 14:28 | https://tube.switch.ch/videos/0cCLmYBoa6 |
 | ⬜ | Python | Important Python commands for working with linear systems. | 19:29 | https://tube.switch.ch/videos/2qRMSONrWV |
 
-⬜
 ---
+
+# Chapter 2 – Matrix Algebra
+
+Video series covering **matrix operations, determinants, inverses, and practical matrix computations**.
+
+| # | Topic | Description | Duration | Video |
+|---|---|---|---|---|
+| ⬜ | Introduction / Motivation | Introductory example (Markov chain) showing that matrices are more than just data storage. | 11:44 | https://tube.switch.ch/videos/PLyIMuJoo5 |
+| ⬜ | Matrices / Terminology / Special Matrices | Important matrix concepts: square matrices, symmetric matrices, zero matrix, identity matrix, etc. | 09:44 | https://tube.switch.ch/videos/tHWBzwja6P |
+| ⬜ | Matrix Operations 1 | Matrix addition, subtraction, and scalar multiplication with motivating examples. | 08:44 | https://tube.switch.ch/videos/KUrLBIC0i5 |
+| ⬜ | Matrix Operations 2 | Matrix multiplication explained step by step with examples and applications. | 18:00 | https://tube.switch.ch/videos/sglUlnAw3h |
+| ⬜ | Transpose of a Matrix | Definition of matrix transposition and its laws. Example application in linear regression. | 12:53 | https://tube.switch.ch/videos/mBbN7B9Cze |
+| ⬜ | Inverse of a Matrix | Definition of matrix inverse, Gauss-Jordan method, invertibility conditions, and properties. | 20:03 | https://tube.switch.ch/videos/8cDtaKze8w |
+| ⬜ | Determinant 1 / Cramer's Rule | Determinants of 2×2 and 3×3 matrices and solving systems using Cramer's rule. | 15:26 | https://tube.switch.ch/videos/Y88oNylvJE |
+| ⬜ | Determinant 2 – General Definition | General determinant definition using permutations and factorial concepts. | 11:47 | https://tube.switch.ch/videos/Hi0MKP7Jmt |
+| ⬜ | Determinant 3 – Gaussian Method | Determinant calculation using the Gaussian elimination method. | 14:41 | https://tube.switch.ch/videos/sNw5BWrUuA |
+| ⬜ | Determinant 4 – Laplace Expansion | Determinant computation using the recursive Laplace expansion theorem. | 11:52 | https://tube.switch.ch/videos/JiMYJotwQH |
+| ⬜ | Adjugate Matrix / Inverse Formula | Introduction of the adjugate matrix and formula for computing matrix inverses. | 11:50 | https://tube.switch.ch/videos/GcBRrq5b3X |
+| ⬜ | Example Exercises | Worked exercises demonstrating the tools and concepts of Chapter 2. | 24:31 | https://tube.switch.ch/videos/oVymOUitwY |
+| ⬜ | Matrix Algebra with Python | Matrix operations (NumPy / SymPy) and implementing determinant algorithms (Gauss / Laplace). | 01:50 | https://tube.switch.ch/videos/wV0bxNeLGw |
+
+---
+
+# 📐 Key Concepts Covered
+
+- Matrix terminology
+- Special matrices (identity, zero, symmetric)
+- Matrix addition and scalar multiplication
+- Matrix multiplication
+- Transpose of a matrix
+- Inverse of a matrix
+- Determinants
+- Cramer's rule
+- Laplace expansion
+- Adjugate matrices
+- Python matrix computations
 
 # 🔍 Useful YouTube Search Queries
 
