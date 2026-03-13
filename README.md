@@ -20,7 +20,7 @@ Video series covering the foundations of **linear equations, matrices, and solvi
 | ✅ | Gauss & Gauss-Jordan | Gaussian elimination and Gauss-Jordan algorithm. Introduction of row echelon form and reduced row echelon form. | 19:27 | https://tube.switch.ch/videos/A6m3ohxIwn |
 | ✅ | Solution Cases / Matrix Rank | Unique solution, infinitely many solutions, or no solution. Use of matrix rank to determine cases. | 23:08 | https://tube.switch.ch/videos/C80pjtCzhw |
 | ✅ | Example Exercises | Worked examples applying the methods of Chapter 1. | 14:28 | https://tube.switch.ch/videos/0cCLmYBoa6 |
-| ⬜ | Python | Important Python commands for working with linear systems. | 19:29 | https://tube.switch.ch/videos/2qRMSONrWV |
+| ✅ | Python | Important Python commands for working with linear systems. | 19:29 | https://tube.switch.ch/videos/2qRMSONrWV |
 
 ---
 
@@ -30,7 +30,7 @@ Video series covering **matrix operations, determinants, inverses, and practical
 
 | # | Topic | Description | Duration | Video |
 |---|---|---|---|---|
-| ⬜ | Introduction / Motivation | Introductory example (Markov chain) showing that matrices are more than just data storage. | 11:44 | https://tube.switch.ch/videos/PLyIMuJoo5 |
+| ✅ | Introduction / Motivation | Introductory example (Markov chain) showing that matrices are more than just data storage. | 11:44 | https://tube.switch.ch/videos/PLyIMuJoo5 |
 | ⬜ | Matrices / Terminology / Special Matrices | Important matrix concepts: square matrices, symmetric matrices, zero matrix, identity matrix, etc. | 09:44 | https://tube.switch.ch/videos/tHWBzwja6P |
 | ⬜ | Matrix Operations 1 | Matrix addition, subtraction, and scalar multiplication with motivating examples. | 08:44 | https://tube.switch.ch/videos/KUrLBIC0i5 |
 | ⬜ | Matrix Operations 2 | Matrix multiplication explained step by step with examples and applications. | 18:00 | https://tube.switch.ch/videos/sglUlnAw3h |
