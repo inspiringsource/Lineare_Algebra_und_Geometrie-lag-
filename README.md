@@ -33,8 +33,8 @@ Video series covering **matrix operations, determinants, inverses, and practical
 | ✅ | Introduction / Motivation | Introductory example (Markov chain) showing that matrices are more than just data storage. | 11:44 | https://tube.switch.ch/videos/PLyIMuJoo5 |
 | ✅ | Matrices / Terminology / Special Matrices | Important matrix concepts: square matrices, symmetric matrices, zero matrix, identity matrix, etc. | 09:44 | https://tube.switch.ch/videos/tHWBzwja6P |
 | ✅ | Matrix Operations 1 | Matrix addition, subtraction, and scalar multiplication with motivating examples. | 08:44 | https://tube.switch.ch/videos/KUrLBIC0i5 |
-| ⬜ | Matrix Operations 2 | Matrix multiplication explained step by step with examples and applications. | 18:00 | https://tube.switch.ch/videos/sglUlnAw3h |
-| ⬜ | Transpose of a Matrix | Definition of matrix transposition and its laws. Example application in linear regression. | 12:53 | https://tube.switch.ch/videos/mBbN7B9Cze |
+| ✅ | Matrix Operations 2 | Matrix multiplication explained step by step with examples and applications. | 18:00 | https://tube.switch.ch/videos/sglUlnAw3h |
+| ✅ | Transpose of a Matrix | Definition of matrix transposition and its laws. Example application in linear regression. | 12:53 | https://tube.switch.ch/videos/mBbN7B9Cze |
 | ⬜ | Inverse of a Matrix | Definition of matrix inverse, Gauss-Jordan method, invertibility conditions, and properties. | 20:03 | https://tube.switch.ch/videos/8cDtaKze8w |
 | ⬜ | Determinant 1 / Cramer's Rule | Determinants of 2×2 and 3×3 matrices and solving systems using Cramer's rule. | 15:26 | https://tube.switch.ch/videos/Y88oNylvJE |
 | ⬜ | Determinant 2 – General Definition | General determinant definition using permutations and factorial concepts. | 11:47 | https://tube.switch.ch/videos/Hi0MKP7Jmt |
