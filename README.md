@@ -46,33 +46,6 @@ Video series covering **matrix operations, determinants, inverses, and practical
 
 ---
 
-# 📐 Key Concepts Covered
-
-- Matrix terminology
-- Special matrices (identity, zero, symmetric)
-- Matrix addition and scalar multiplication
-- Matrix multiplication
-- Transpose of a matrix
-- Inverse of a matrix
-- Determinants
-- Cramer's rule
-- Laplace expansion
-- Adjugate matrices
-- Python matrix computations
-
-### Core Concepts
-Gaussian elimination explained
-Row echelon form explained
-Reduced row echelon form RREF
-Gauss Jordan elimination
-Matrix row operations
-### German Searches
-Zeilenstufenform Matrix Gauß Verfahren erklärt
-Lineare Gleichungssysteme Gauß Algorithmus
-Rang einer Matrix erklärt
-
----
-
 # Python Tools Used
 
 This repository includes examples using:
@@ -81,21 +54,38 @@ This repository includes examples using:
 - **SymPy** – symbolic mathematics
 - **Jupyter Notebook** – interactive computation
 
-Relevant files in this repository:
+These notebooks are designed to help you practice linear algebra concepts interactively using Python.
 
-Einführung NumPy.ipynb
-Einführung SymPy.ipynb
-ErsteSchritteMitPythonUndJupyter.ipynb
-uebung-2-python.ipynb
-uebung-3-sol-python.ipynb
-uebung-4-sol-python.ipynb
-uebung-5-sol-python.ipynb
+## Jupyter Notebooks (Run in Google Colab)
+
+You can open and run all notebooks directly in your browser using Google Colab (no installation required):
+
+- Einführung NumPy  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/inspiringsource/Lineare_Algebra_und_Geometrie-lag-/blob/main/Einf%C3%BChrung%20NumPy.ipynb)
+
+- Einführung SymPy  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/inspiringsource/Lineare_Algebra_und_Geometrie-lag-/blob/main/Einf%C3%BChrung%20SymPy.ipynb)
+
+- Erste Schritte mit Python und Jupyter  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/inspiringsource/Lineare_Algebra_und_Geometrie-lag-/blob/main/ErsteSchritteMitPythonUndJupyter.ipynb)
+
+- Übung 2  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/inspiringsource/Lineare_Algebra_und_Geometrie-lag-/blob/main/uebung-2-python.ipynb)
+
+- Übung 3 (Solution)  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/inspiringsource/Lineare_Algebra_und_Geometrie-lag-/blob/main/uebung-3-sol-python.ipynb)
+
+- Übung 4 (Solution)  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/inspiringsource/Lineare_Algebra_und_Geometrie-lag-/blob/main/uebung-4-sol-python.ipynb)
+
+- Übung 5 (Solution)  
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/inspiringsource/Lineare_Algebra_und_Geometrie-lag-/blob/main/uebung-5-sol-python.ipynb)
 
 ---
 
 # Goal of this Repository
 
-The goal is to understand Lineare Algebra und Geometrie (lag) by documenting progress through video lectures, exercises, and Python implementations.:
+The goal is to understand Lineare Algebra und Geometrie (lag) by documenting progress through video lectures, exercises, and Python implementations.
 
 ---
 
