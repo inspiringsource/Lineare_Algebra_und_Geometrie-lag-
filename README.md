@@ -35,7 +35,7 @@ Video series covering **matrix operations, determinants, inverses, and practical
 | 3 | ✅ | Matrix Operations 1 | Matrix addition, subtraction, and scalar multiplication with motivating examples. | 08:44 | https://tube.switch.ch/videos/KUrLBIC0i5 |
 | 4 | ✅ | Matrix Operations 2 | Matrix multiplication explained step by step with examples and applications. | 18:00 | https://tube.switch.ch/videos/sglUlnAw3h |
 | 5 | ✅ | Transpose of a Matrix | Definition of matrix transposition and its laws. Example application in linear regression. | 12:53 | https://tube.switch.ch/videos/mBbN7B9Cze |
-| 6 | ⬜ | Inverse of a Matrix | Definition of matrix inverse, Gauss-Jordan method, invertibility conditions, and properties. | 20:03 | https://tube.switch.ch/videos/8cDtaKze8w |
+| 6 | ✅ | Inverse of a Matrix | Definition of matrix inverse, Gauss-Jordan method, invertibility conditions, and properties. | 20:03 | https://tube.switch.ch/videos/8cDtaKze8w |
 | 7 | ⬜ | Determinant 1 / Cramer's Rule | Determinants of 2×2 and 3×3 matrices and solving systems using Cramer's rule. | 15:26 | https://tube.switch.ch/videos/Y88oNylvJE |
 | 8 | ⬜ | Determinant 2 – General Definition | General determinant definition using permutations and factorial concepts. | 11:47 | https://tube.switch.ch/videos/Hi0MKP7Jmt |
 | 9 | ⬜ | Determinant 3 – Gaussian Method | Determinant calculation using the Gaussian elimination method. | 14:41 | https://tube.switch.ch/videos/sNw5BWrUuA |
