@@ -39,10 +39,10 @@ Video series covering **matrix operations, determinants, inverses, and practical
 | 7 | ✅ | Determinant 1 / Cramer's Rule | Determinants of 2×2 and 3×3 matrices and solving systems using Cramer's rule. | 15:26 | https://tube.switch.ch/videos/Y88oNylvJE |
 | 8 | ✅ | Determinant 2 – General Definition | General determinant definition using permutations and factorial concepts. | 11:47 | https://tube.switch.ch/videos/Hi0MKP7Jmt |
 | 9 | ✅ | Determinant 3 – Gaussian Method | Determinant calculation using the Gaussian elimination method. | 14:41 | https://tube.switch.ch/videos/sNw5BWrUuA |
-| 10 | ⬜ | Determinant 4 – Laplace Expansion | Determinant computation using the recursive Laplace expansion theorem. | 11:52 | https://tube.switch.ch/videos/JiMYJotwQH |
-| 11 | ⬜ | Adjugate Matrix / Inverse Formula | Introduction of the adjugate matrix and formula for computing matrix inverses. | 11:50 | https://tube.switch.ch/videos/GcBRrq5b3X |
-| 12 | ⬜ | Example Exercises | Worked exercises demonstrating the tools and concepts of Chapter 2. | 24:31 | https://tube.switch.ch/videos/oVymOUitwY |
-| 13 | ⬜ | Matrix Algebra with Python | Matrix operations (NumPy / SymPy) and implementing determinant algorithms (Gauss / Laplace). | 01:50 | https://tube.switch.ch/videos/wV0bxNeLGw |
+| 10 | ✅ | Determinant 4 – Laplace Expansion | Determinant computation using the recursive Laplace expansion theorem. | 11:52 | https://tube.switch.ch/videos/JiMYJotwQH |
+| 11 | ✅ | Adjugate Matrix / Inverse Formula | Introduction of the adjugate matrix and formula for computing matrix inverses. | 11:50 | https://tube.switch.ch/videos/GcBRrq5b3X |
+| 12 | ✅ | Example Exercises | Worked exercises demonstrating the tools and concepts of Chapter 2. | 24:31 | https://tube.switch.ch/videos/oVymOUitwY |
+| 13 | ✅ | Matrix Algebra with Python | Matrix operations (NumPy / SymPy) and implementing determinant algorithms (Gauss / Laplace). | 01:50 | https://tube.switch.ch/videos/wV0bxNeLGw |
 
 ---
 
